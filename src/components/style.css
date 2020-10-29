@@ -1,0 +1,26 @@
+.box{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    float: left;
+    padding: 5px; 
+}
+.profileBox{
+    background-color:#aa3a3a;
+    color: #ffffff;
+}
+.interestBox{
+    background-color: #a4b787;
+    color: #000000;
+}
+.learnBox{
+    background-color: #f4f4f4;
+    color: #000000;
+}
+.expectationsBox{
+    background-color: #f8e4b7;
+    color: #000000;
+}
